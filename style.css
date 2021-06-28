@@ -1,0 +1,38 @@
+#welcomePage{
+    color: white;
+
+}
+#page1{
+    background-image: url("background1.jpg");
+    background-attachment: fixed;
+    height: 120%;
+    width: 100%;
+}
+#page2{
+    background-image: url("background2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 120%;
+    width: 100%;
+}
+#page3{
+    background-color:lightblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+#navbar{
+    color: white;
+}
+.navbar_button{
+    font-size:larger;
+    text-decoration: none;
+    padding-right: 15%;
+    color: gray;
+}
+.navbar_button:hover{
+    color: white;
+}
